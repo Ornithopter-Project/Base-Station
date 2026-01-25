@@ -11,7 +11,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FQ1nKd3-7XS8y8ytSOO6" name="Brainstorm">
-    <mxGraphModel dx="679" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="1580" dy="952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -157,6 +157,39 @@
         </mxCell>
         <mxCell id="NPFDZQCCBHW81LT7Ntif-13" parent="NPFDZQCCBHW81LT7Ntif-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Directional LoRa 915MHZ - 930MHZ (Very Long Range)" vertex="1">
           <mxGeometry height="20" width="320" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pVeNDw0B2Ooj8V5v8x9Y-10" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;container=1;" value="Notes / Feats" vertex="1">
+          <mxGeometry height="220" width="200" x="80" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="pVeNDw0B2Ooj8V5v8x9Y-11" parent="pVeNDw0B2Ooj8V5v8x9Y-10" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Use a Laptop style system" vertex="1">
+          <mxGeometry height="20" width="200" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pVeNDw0B2Ooj8V5v8x9Y-12" parent="pVeNDw0B2Ooj8V5v8x9Y-10" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Builtin Microcontroller" vertex="1">
+          <mxGeometry height="20" width="200" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pVeNDw0B2Ooj8V5v8x9Y-13" parent="pVeNDw0B2Ooj8V5v8x9Y-10" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Builtin Sun Hood for Monitor" vertex="1">
+          <mxGeometry height="20" width="200" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pVeNDw0B2Ooj8V5v8x9Y-16" parent="pVeNDw0B2Ooj8V5v8x9Y-10" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Builtin Controllers" vertex="1">
+          <mxGeometry height="20" width="200" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pVeNDw0B2Ooj8V5v8x9Y-15" parent="pVeNDw0B2Ooj8V5v8x9Y-10" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="High Capacity Replaceable Battery" vertex="1">
+          <mxGeometry height="20" width="200" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pVeNDw0B2Ooj8V5v8x9Y-14" parent="pVeNDw0B2Ooj8V5v8x9Y-10" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="IEC Power Connector" vertex="1">
+          <mxGeometry height="20" width="200" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pVeNDw0B2Ooj8V5v8x9Y-17" parent="pVeNDw0B2Ooj8V5v8x9Y-10" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="USBC PD Compatible" vertex="1">
+          <mxGeometry height="20" width="200" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="pVeNDw0B2Ooj8V5v8x9Y-18" parent="pVeNDw0B2Ooj8V5v8x9Y-10" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Environmental Lights" vertex="1">
+          <mxGeometry height="20" width="200" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="pVeNDw0B2Ooj8V5v8x9Y-19" parent="pVeNDw0B2Ooj8V5v8x9Y-10" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Isolated Ports" vertex="1">
+          <mxGeometry height="20" width="200" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="pVeNDw0B2Ooj8V5v8x9Y-20" parent="pVeNDw0B2Ooj8V5v8x9Y-10" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Waterproof Case" vertex="1">
+          <mxGeometry height="20" width="200" y="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
